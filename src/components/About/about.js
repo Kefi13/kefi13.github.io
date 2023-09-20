@@ -14,8 +14,8 @@ My objective is to secure a challenging role that promotes my growth while contr
 
 I am actively seeking an organization that values hands-on experience and technical proficiency, as I am committed to enhancing my skill set further."</span>
             <div className='skillBars'>
-                <div className='skillBar'>
-                    <img src={UIDesign} alt='UIDesign' className='skillBarImg'/>
+            <div className='skillBar'>
+                <img src={UIDesign} alt='UIDesign' className='skillBarImg'/>
                     <div className='skillBarText'>
                         <h2>Software Development </h2>
                         <p>I have 3+ years of experience in developing Mobile Application Development using Java, Xml, flutter, react and JS  technologies. .</p>
