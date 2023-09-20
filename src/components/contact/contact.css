@@ -1,0 +1,51 @@
+#contacts{
+    overflow: hidden;
+    width: 150vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+.contactTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+    
+}
+
+.contactTab{
+    
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background: rgb(50,50,50);
+    width: 60vw;
+    
+
+    
+}
+.contactUs{
+    font-size: 1.7rem;
+    display: flex;
+    margin: 0.2rem;
+    padding: 0.25rem;
+    border-radius: 0.5rem;
+    background: rgb(50,50,50);
+    justify-content: center;
+
+}
+
+.socialIcons{
+    margin: 1rem 1rem;
+    
+}

@@ -1,5 +1,5 @@
 .navbar {
-    background: rgb(30, 30, 30) ;
+    background:  linear-gradient(90deg, #0e1d34, #1a1c7f);
     height: 5rem;
     width: 100vw;
     max-width: 75rem;
@@ -16,7 +16,7 @@
 }
 .logo {
     object-fit: cover;
-    height: 3rem;
+    height: 4rem;
     width: 4rem;
 }
 
