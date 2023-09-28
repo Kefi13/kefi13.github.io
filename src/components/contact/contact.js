@@ -11,7 +11,7 @@ function Contact() {
                 <h4>You can Contact me on on : sawaleruchita@gmail.com</h4>
             </div>
             <div>
-            <SocialIcon className="socialIcons"  network="github" url="https://github.com/Kefi13" />
+            <SocialIcon className="socialIcons"  network="github"  url="https://github.com/Kefi13" />
             <SocialIcon className= "socialIcons" network="linkedin" url="https://www.linkedin.com/in/ruchita-sawale/" />
             </div>
             

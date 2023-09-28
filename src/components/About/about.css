@@ -52,7 +52,7 @@
  font-weight: 300;
 
 }
-
+    
 @media screen and (max-width:720px ){
     .skillBarText>p{
         font-size: 0.9rem;
