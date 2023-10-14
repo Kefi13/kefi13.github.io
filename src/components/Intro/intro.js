@@ -11,8 +11,12 @@ function Intro() {
                 <span className='hello'> Hello</span>
                 <span className='introText'> I'am <span className='introName'> Ruchita </span> <span className='animated-text'><br/>Software Developer</span></span>
                 <p className='introPara'> I am a skilled software Developer.<br/> With experience in creating beautiful front end. </p>
-                <a href= {ResumePDF} download={"Ruchita Resume Copy "}  target="_blank"
-        rel="noreferrer"> <button className='btn'><img src={btnImg} alt='Hireme' className='btnImg'/> Hire me </button></a>
+                <Link  
+        to={ResumePDF}
+        download="Example-PDF-document"
+        target="_blank"
+        rel="noreferrer"
+      > <button className='btn'><img src={btnImg} alt='Hireme' className='btnImg'/> Hire me </button></Link>
             </div>
             <img src={bg} alt='Profile ' className='bg'/>
         </section>
